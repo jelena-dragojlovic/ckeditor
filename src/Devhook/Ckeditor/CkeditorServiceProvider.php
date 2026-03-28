@@ -18,7 +18,7 @@ class CkeditorServiceProvider extends ServiceProvider {
 	 */
 	public function register()
 	{
-		// 
+		// config 
 	}
 
 	/**
